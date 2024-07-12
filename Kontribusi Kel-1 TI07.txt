@@ -1,0 +1,7 @@
+Kontribusi Kel-1 TI07
+KELOMPOK 1 :
+
+1. Aziz Maulana Hakim : 95% (ketua kelompok, membuat CRUD AdminLTE, membuat login dan role, hosting website)
+2. Fathurrizqi Abdurrafiq : 90% (membantu pengerjaan dan memberi ide, membuat desain dan isi database, membuat video demo)
+3. Muhammad Afif Abdurrahman: 90% (membantu pengerjaan dan memberi ide, membuat landing page dan menyambungkan ke frontend.php, membuat power point presentasi)
+4. Nurida Tuharea: 10% (minim kontribusi, tapi masih ikut diskusi di wa grup kelompok walau hanya di awal saja)
